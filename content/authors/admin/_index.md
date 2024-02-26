@@ -40,10 +40,10 @@ education:
   courses:
     - course: MS in Operations Research
       institution: Columbia University, New York, US
-      year: 2023.09
+      year: 2023
     - course: BS in Mathematics
       institution: University of Liverpool, Liverpool, UK
-      year: 2019.09
+      year: 2019
 
       
 
