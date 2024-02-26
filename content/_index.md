@@ -85,13 +85,13 @@ sections:
           description: Taught electronic engineering and researched semiconductor physics.
     design:
       columns: '2'
-  - block: accomplishments
-    content:
-      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
-      title: 'Accomplish&shy;ments'
-      subtitle:
+#  - block: accomplishments
+#    content:
+#      # Note: `&shy;` is used to add a 'soft' hyphen in a long heading.
+#      title: 'Accomplish&shy;ments'
+#      subtitle:
       # Date format: https://docs.hugoblox.com/customization/#date-format
-      date_format: Jan 2006
+#      date_format: Jan 2006
       # Accomplishments.
       #   Add/remove as many `item` blocks below as you like.
       #   `title`, `organization`, and `date_start` are the required parameters.
