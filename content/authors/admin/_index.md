@@ -1,9 +1,9 @@
 ---
 # Display name
-title: Shjie Han
+title: Shjie Han (韩世杰)
 
 # Name pronunciation (optional)
-name_pronunciation: 韩世杰
+name_pronunciation: 
 
 # Full name (for SEO)
 first_name: 韩
@@ -21,7 +21,8 @@ role: NLP Student Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Columbia University
+  - name: School of Engineering and Applied Science
+          Columbia University
     url: https://www.columbia.edu/
 
 # Short bio (displayed in user profile at end of posts)
