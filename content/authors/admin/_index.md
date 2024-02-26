@@ -3,7 +3,7 @@
 title: Shjie Han
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: 韩世杰
 
 # Full name (for SEO)
 first_name: 韩
