@@ -239,7 +239,7 @@ sections:
       # Contact (add or remove contact options as necessary)
       email: sh4460@columbia.edu
       phone: +1 (332)-260-8224
-      wechat: 13665373002
+#      wechat: 13665373002
 #      appointment_url: 'https://calendly.com'
 #      address:
 #        street: 450 Serra Mall
@@ -256,11 +256,11 @@ sections:
       coordinates:
         latitude: '40.80783'
         longitude: '-73.96286'  
-#      contact_links:
-#        - icon: twitter
-#          icon_pack: fab
-#          name: DM Me
-#          link: 'https://twitter.com/Twitter'
+      contact_links:
+        - icon: comment
+          icon_pack: fab
+          name: Join Me
+          link: 'https://twitter.com/Twitter'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
