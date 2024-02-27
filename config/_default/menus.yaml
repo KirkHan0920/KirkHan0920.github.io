@@ -16,10 +16,13 @@ main:
   - name: Experience
     url: '#experience'
     weight: 40  
+  - name: Posts
+    url: '#posts'
+    weight: 50   
   - name: Resume
     url: uploads/resume.pdf
-    weight: 50
+    weight: 60
   - name: Contact
     url: '#contact'
-    weight: 60
+    weight: 70
 
