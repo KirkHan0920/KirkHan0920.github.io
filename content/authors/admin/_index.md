@@ -21,9 +21,8 @@ role: NLP Student Researcher
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: School of Engineering and Applied Science
-          Columbia University
-    url: https://www.columbia.edu/
+  - name: Columbia University
+    url: https://ieor.columbia.edu/operations-research-msor
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -114,9 +113,6 @@ social:
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
-  - icon: cv
-    icon_pack: ai
-    link: uploads/resume.pdf
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
