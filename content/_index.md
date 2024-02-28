@@ -257,7 +257,7 @@ sections:
         latitude: '40.80783'
         longitude: '-73.96286'  
       contact_links:
-        - icon: comment
+        - icon: email
           icon_pack: fab
           name: wechat:13665373002
           link: 'wechat://'
