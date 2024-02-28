@@ -257,10 +257,10 @@ sections:
         latitude: '40.80783'
         longitude: '-73.96286'  
       contact_links:
-        - icon: email
+        - icon: telegram
           icon_pack: fab
           name: wechat:13665373002
-          link: 'wechat://'
+          link: 'wechat://d1/profile'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
