@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Shjie Han (韩世杰)
+title: Shijie Han (韩世杰)
 
 # Name pronunciation (optional)
 name_pronunciation: 
