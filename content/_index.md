@@ -260,7 +260,7 @@ sections:
         - icon: comments
           icon_pack: fab
           name: wechat: 13665373002
-#          link: 'wechat://'
+          link: 'wechat://'
 #        - icon: skype
 #          icon_pack: fab
 #          name: Skype Me
