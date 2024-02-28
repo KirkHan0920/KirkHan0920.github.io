@@ -25,7 +25,7 @@ organizations:
     url: https://ieor.columbia.edu/operations-research-msor
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: NLP Student Researcher @ColumbiaUniversity.
 
 # Interests to show in About widget
 interests:
@@ -118,5 +118,7 @@ social:
 highlight_name: true
 ---
 
-Hello! I am Shijie(Kirk) Han 
+Hello! I am <strong>Shijie(Kirk) Han</strong>, currently immersed in research within the realm of Large Language Models (LLMs), serving as a research assistant under the esteemed guidance of <a href="https://openfin.engineering.columbia.edu/people/xiao-yang-yanglet-liu" target="_blank">Prof. Xiaoyang Liu</a> at Columbia Universit. In addition, I am collaborating on NLP-related projects with <a href="https://datascience.columbia.edu/people/andrei-simion/" target="_blank">Dr. Andrei Simion</a>, adjunct professor at Columbia University and Applied Machine Learning Scientist at Walmart. I am honored to receive First Class BSc in Mathematics Degree from the University of Liverpool, and presently advancing my studies with MS in Operations Research at Columbia University. Throughout my academic journey pursuits, I had the privilege of working closely with Prof. Yi Zhang and Prof. Ali Hirsa, who offered invaluable insights and mentorship in my initial forays into research.
+
+I am actively seeking PhD positions in the field of NLP/AI for Finance, and I am equally eager to secure summer research internship opportunities in this dynamic area. If you know of any relevant openings or could provide an introduction, I would deeply appreciate your support.
 {style="text-align: justify;"}
